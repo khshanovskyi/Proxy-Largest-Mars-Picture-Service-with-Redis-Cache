@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ua.khshanovskyi</groupId>
-    <artifactId>Proxy-Largest-Mars-Picture-Service-with-Redis-Cache</artifactId>
+    <artifactId>plmpswrc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Proxy-Largest-Mars-Picture-Service-with-Redis-Cache</name>
     <description>Proxy-Largest-Mars-Picture-Service-with-Redis-Cache</description>
